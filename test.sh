@@ -1,5 +1,2 @@
-#Netology
-#copy
-#commit1
+#/bin/bash
 #add
-#copy
